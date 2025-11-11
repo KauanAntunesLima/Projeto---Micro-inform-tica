@@ -472,34 +472,12 @@ form button:hover {
         padding-top: 80px; 
     }
 
-    .home .container-produtos{
-        display: none;
-    }
-
     .container-top{
         flex-direction: column-reverse;
         align-items: center;
         gap: 128px;
     }
 
-    .container-produtos{
-        gap: 32px;
-        justify-content: center;
-    }
-
-    .produto{
-        width: auto;
-    }
-
-    .produto:nth-child(3), 
-    .produto:nth-child(4),
-    .produto:nth-child(5){
-        display: none;
-    }
-    
-    .cardapio-item{
-        border: none;
-    }
 
     .servicos-container{
         flex-direction: column;
